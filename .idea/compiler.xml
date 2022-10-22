@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="Course_lab2" target="8" />
+      <module name="JavaCourseLab2" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
